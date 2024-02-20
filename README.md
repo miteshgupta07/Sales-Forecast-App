@@ -51,6 +51,19 @@ The Sales Forecast App is a web application designed to assist businesses in pre
 - **Kaggle:** Thanks to Kaggle for providing historical IPL match data.
 
 - **Scikit-learn:** Gratitude to the Scikit-learn community for creating a powerful machine learning library.
+
+- **NumPy:** Heartfelt thanks to the NumPy community for developing a fundamental library that forms the backbone of numerical computing in Python.
+
+- **Pandas:** Special appreciation to the Pandas development team for creating an indispensable tool for data manipulation and analysis, making our project more efficient and effective.
+
+- **Matplotlib:** A big shout-out to the Matplotlib developers for providing an extensive and flexible plotting library, adding a visual dimension to our data exploration and presentation.
+
+- **Seaborn:** We express our gratitude to the Seaborn community for enhancing our data visualization capabilities with a high-level interface to Matplotlib, making our plots more aesthetically pleasing and informative.
+
+- **SciPy:** Thanks to the SciPy project for delivering a powerful library for scientific and technical computing in Python, contributing significantly to the success of our project.
+
+- **XGBoost:** A special thank you to the XGBoost community for creating an efficient and scalable gradient boosting library, boosting the performance of our machine learning models.
+  
 ## Contact
 Email : mgmiteshgupta134@gmail.com
 
