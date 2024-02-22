@@ -6,11 +6,8 @@ import pickle
 # Create a Flask web application instance
 app = Flask(__name__)
 
-# Set the path to the directory containing the trained model
-path = "E:\Data Science\Projects\Sales Forecast App\Model"
-
 # Load the pre-trained machine learning model using Pickle
-model = pickle.load(open(path + '\model.pkl', 'rb'))
+model = pickle.load(open('model.pkl', 'rb'))
 
 # Define the route for the home page, which renders the index.html template
 @app.route('/')
