@@ -65,7 +65,7 @@ The Sales Forecast App is a web application designed to assist businesses in pre
 - **XGBoost:** A special thank you to the XGBoost community for creating an efficient and scalable gradient boosting library, boosting the performance of our machine learning models.
   
 ## Contact
-Email : mgmiteshgupta134@gmail.com
+Email : miteshgupta2711@gmail.com
 
 Linkedin : https://www.linkedin.com/in/mitesh-gupta/
 
